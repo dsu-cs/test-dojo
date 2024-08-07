@@ -1,0 +1,6 @@
+name: Test Module 2
+challenges:
+  - id: test_challenge1
+    name: Test Challenge 1
+  - id: test_challenge2
+    name: Test Challenge 2

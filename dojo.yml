@@ -1,0 +1,6 @@
+id: test
+name: Test Dojo
+type: test
+modules:
+  - id: test_module1
+  - id: test_module2
