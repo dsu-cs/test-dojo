@@ -1,6 +1,6 @@
 id: test
 name: Test Dojo
-type: topic
+type: roadshow
 modules:
   - id: testmodule1
   - id: testmodule2
