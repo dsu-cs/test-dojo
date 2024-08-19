@@ -1,6 +1,6 @@
 id: test
 name: Test Dojo
-type: test
+type: topic
 modules:
   - id: testmodule1
   - id: testmodule2
