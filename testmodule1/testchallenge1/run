@@ -44,5 +44,5 @@ def check_filename(filename):
         print(f"Error: There was an issue with your code. {str(e)}")
 
 if __name__ == "__main__":
-    filename = "hello_world.py"
+    filename = "/home/hacker/hello_world.py"
     check_filename(filename)
