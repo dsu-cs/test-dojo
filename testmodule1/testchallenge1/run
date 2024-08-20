@@ -31,7 +31,7 @@ def check_filename(filename):
         # Checks if the output matches the expected output
         if output == expected_output:
 		with open("/flag") as f:
-                flag = f.read().strip()
+			flag = f.read().strip()
             print(f"Congratulations! Here is your flag: {flag}")
         else:
             print("Error: There was an issue with your code. {str(e)}")
