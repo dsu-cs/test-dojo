@@ -29,7 +29,7 @@ def check_filename(filename):
         output = sys.stdout.getvalue().strip()
 
         # Checks if the output matches the expected output
-         if output == expected_output:
+        if output == expected_output:
 		with open("/flag") as f:
                 flag = f.read().strip()
             print(f"Congratulations! Here is your flag: {flag}")
